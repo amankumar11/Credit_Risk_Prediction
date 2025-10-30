@@ -20,7 +20,7 @@ It uses a trained **Random Forest Classifier** model on a Kaggle dataset: *Loan 
 
 ### Clone this repository
 ```bash
-git clone https://github.com/yourusername/credit-risk-analyzer.git
+git clone https://github.com/amankumar11/Credit_Risk_Prediction.git
 cd credit-risk-analyzer
 ```
 
